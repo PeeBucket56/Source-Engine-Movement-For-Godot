@@ -1,3 +1,11 @@
 i heavily modified code from another github repository but i forgot the name. if i find it again, i will link it here. 
 
-I changed some of the values to make it more similar to the source engine, and i also added crouching. This project includes bunnyhopping, strafing, but no surfing.
+I changed some of the values to make it more similar to the source engine, and i also added crouching. This project includes bunnyhopping, strafing, and more.
+
+INSTRUCTIONS --
+  1-unzip the ZIP file
+  2-open the "project.godot" in in the godot engine.
+  3-there is already a testing world in the project so you can modify that however you like
+  4-modify (or keep it how it is) and have fun!
+
+Do what you want with it! i dont care, i dont want credit. use it for whatever you want!!
